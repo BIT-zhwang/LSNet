@@ -1,2 +1,2 @@
-# linuxTmpFiles
+# Limited Sliding Window.
  
