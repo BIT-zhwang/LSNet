@@ -1,2 +1,1 @@
-# Limited Sliding Window.
- 
+
